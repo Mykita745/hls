@@ -1,67 +1,47 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://bit.ly/pondan-epg"
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7WPiTruDUJuqMsK93ribGeH85X6.jpg" group-title="MOVIES VOD 2025", Off Track 2 (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7WPiTruDUJuqMsK93ribGeH85X6.jpg" group-title="MOVIES VOD 2025", Off Track 2 (2025)
 https://cloud.hownetwork.xyz/xxx/LR4vYzELFiIpfEVhcQBkbW8PLCwhFSgZHTAVeycAZDp3/32/480.m3u8
-
-#EXTINF:-1  tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" group-title="MOVIES VOD 2025", Fear Street: Prom Queen (2025)
+#EXTINF:-1  type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg" group-title="MOVIES VOD 2025", Fear Street: Prom Queen (2025)
 https://cloud.hownetwork.xyz/xxx/JB0oPGgKAzMnNANhM0I5NW8JPCsgF1pzcmNCYTRVNDwuJxERfB8UcyNoEnQ/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="MOVIES VOD 2025", 🔴 Final Destination: Bloodlines (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="MOVIES VOD 2025", 🔴 Final Destination: Bloodlines (2025)
 https://cloud.hownetwork.xyz/xxx/JBEnLylUEyQxJR4iIkQ_NyxVKyIqFhMtKz8SP24CZmp3VT4rJx0bHhoOFnx0UWA-I0g/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" group-title="MOVIES VOD 2025", Fountain of Youth (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" group-title="MOVIES VOD 2025", Fountain of Youth (2025)
 https://cloud.hownetwork.xyz/xxx/JBc8IDEYHi9vPhFhOl8jLCpVe353TFo2JzMTIBxoCW51TXEodk9C/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/k3YCZGCVazuC97OnefvBNRinI7M.jpg" group-title="MOVIES VOD 2025", Happy Monday(s) (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/k3YCZGCVazuC97OnefvBNRinI7M.jpg" group-title="MOVIES VOD 2025", Happy Monday(s) (2025)
 https://cloud.hownetwork.xyz/xxx/Khk5PjxUGi4sNRY1bkM3LyMcLSsgVAAgLHwdLS0dJXVwSHt7aA4SIyY9KBQcBGduJ04rfXQ/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg" group-title="MOVIES VOD 2025", Espantaho (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg" group-title="MOVIES VOD 2025", Espantaho (2025)
 https://cloud.hownetwork.xyz/xxx/Jws5LysNFiktfEV8cQV7LycaLSIaISh5JDRDLXIDbw/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="MOVIES VOD 2025", 🔴 Holy Night: Demon Hunters (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="MOVIES VOD 2025", 🔴 Holy Night: Demon Hunters (2025)
 https://cloud.hownetwork.xyz/xxx/KhclN2gXHiYqJVooJl05Nm8QPCAxHAUyb2NHfnYdPjw2DhYWGkoTJSRhEnkn/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4h7wfkH79ic4w301TB2YC2m2b6c.jpg" group-title="MOVIES VOD 2025", Confrontation Peak (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4h7wfkH79ic4w301TB2YC2m2b6c.jpg" group-title="MOVIES VOD 2025", Confrontation Peak (2025)
 https://cloud.hownetwork.xyz/xxx/IRcnKDcWGTUjJR4jLR0mPSMTZCQsGBknJz8QYSdFPzI3HWR8dUtCbDU0FSgvbw4He0EqeicbT3U/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mKnkMX15uEen3f6CyTyfXwzfp3j.jpg" group-title="MOVIES VOD 2025", Predestination (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mKnkMX15uEen3f6CyTyfXwzfp3j.jpg" group-title="MOVIES VOD 2025", Predestination (2025)
 https://cloud.hownetwork.xyz/xxx/MgosKiAKAygsMAMlLF57LCMWZD8sFxBsMTkCJW5YM3UhECYgIgofJCw2Wn5zAmN1NR0rKikmLx4hYEd4elY3Pg/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/t0fakpYzT6SCT2DSrzpjYMH3C7x.jpg" group-title="MOVIES VOD 2025", Thunder Rose (Steel Rose) (Pili Meigui) (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/t0fakpYzT6SCT2DSrzpjYMH3C7x.jpg" group-title="MOVIES VOD 2025", Thunder Rose (Steel Rose) (Pili Meigui) (2025)
 https://cloud.hownetwork.xyz/xxx/NhA8ICEcBWwwPgQpbkMiPScUZDwqChJsMjgbJW5dMzElDSBjd0lFdG8mEi4nXAkAHR56fXUdQHUm/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/chfovjYJvhjk6YsMUbmsbAyy8yH.jpg" group-title="MOVIES VOD 2025", Ex Ex Lovers (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/chfovjYJvhjk6YsMUbmsbAyy8yH.jpg" group-title="MOVIES VOD 2025", Ex Ex Lovers (2025)
 https://cloud.hownetwork.xyz/xxx/JwBkKz1UGy40NAU_bgJmandVPisnHRseGg4VfiYDZ2p1Sg/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2NAnnth4lEcnJsYql68dzvE2cH0.jpg" group-title="MOVIES VOD 2025", The Black Hole (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2NAnnth4lEcnJsYql68dzvE2cH0.jpg" group-title="MOVIES VOD 2025", The Black Hole (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYycVFiIpfB8jL1V7anJKfGMnFQIzIygoFBwANGskSy1-IA/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7BkDJ4DfjkEG6NRJPeyw9w2iRFx.jpg" group-title="MOVIES VOD 2025", Rosario (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7BkDJ4DfjkEG6NRJPeyw9w2iRFx.jpg" group-title="MOVIES VOD 2025", Rosario (2025)
 https://cloud.hownetwork.xyz/xxx/MBc6LzcQGGxwYUV5bkczOiYUFhYaSBF3ITNHLSE/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hPBERJFecTqReSO0jqcfL6branG.jpg" group-title="MOVIES VOD 2025", Sarah Silverman: PostMortem (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hPBERJFecTqReSO0jqcfL6branG.jpg" group-title="MOVIES VOD 2025", Sarah Silverman: PostMortem (2025)
 https://cloud.hownetwork.xyz/xxx/MRk7Ly1UBCguJxI-LlE4dTIXOjooFgU1JzxafnMCY3U1HSsqKSYvHiE0QXomUW89/32/480.m3u8
-
-#EXTINF:-1  tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" group-title="MOVIES VOD 2025", The Legend of Ochi (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" group-title="MOVIES VOD 2025", The Legend of Ochi (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYykcECQsNVojJR05OyoRZHx1S0JsNTQVKC9vDgdzSHx_JhpEdQ/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bBnyDM1gWBLd91K245iVKH19t42.jpg" group-title="MOVIES VOD 2025", You Are the Apple of My Eye (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bBnyDM1gWBLd91K245iVKH19t42.jpg" group-title="MOVIES VOD 2025", You Are the Apple of My Eye (2025)
 https://cloud.hownetwork.xyz/xxx/Oxc8YyQLEmw2ORJhIkAmNCdVJihoFA5sJygSYXEAZG1vDywsIRUoGR0yEyhyU2M7dg/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jQydQDc5lBOUBvft8PuOUQ7r4NY.jpg" group-title="MOVIES VOD 2025", Alien Invasion: Rise of the Phoenix (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jQydQDc5lBOUBvft8PuOUQ7r4NY.jpg" group-title="MOVIES VOD 2025", Alien Invasion: Rise of the Phoenix (2025)
 https://cloud.hownetwork.xyz/xxx/IxQgKytUHi80MAQlLF57KisLLGMqH1o1KjRaPCtfMzYrAGR8dUtCbDU0FSgvbw4HexwofHRAQXM/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" group-title="MOVIES VOD 2025", Sinners (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg" group-title="MOVIES VOD 2025", Sinners (2025)
 https://cloud.hownetwork.xyz/xxx/MREnICALBGxwYUV5blgyLDQnERF1SUJ1cDdPfA/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="MOVIES VOD 2025", 🔴 Mission: Impossible – The Final Reckoning (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg" group-title="MOVIES VOD 2025", 🔴 Mission: Impossible – The Final Reckoning (2025)
 https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEgUTsHGidxd3MbQHYmZQ/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/diPSE2jVqMQF1g6u1duFzzxMxh9.jpg" group-title="MOVIES VOD 2025", 🔴 Clown in a Cornfield (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/diPSE2jVqMQF1g6u1duFzzxMxh9.jpg" group-title="MOVIES VOD 2025", 🔴 Clown in a Cornfield (2025)
 https://cloud.hownetwork.xyz/xxx/IRQmOStUHi9vMFovLEI4PisdJSpoS0dzd3wULS5vDgcgT3ooJkoSIA/32/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lBHqB18SoTOZ4Ob0expDnf7QSov.jpg" group-title="MOVIES VOD 2025", Project MKHEXE (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lBHqB18SoTOZ4Ob0expDnf7QSov.jpg" group-title="MOVIES VOD 2025", Project MKHEXE (2025)
 https://cloud.hownetwork.xyz/xxx/MgomJCAaA2wvOh8pO1V7anJKfGMyHBUlLg4vE3MINT5xGSx2/32/480.m3u8
 
 
